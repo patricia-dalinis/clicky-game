@@ -13,5 +13,6 @@
 ### Technologies Used
 
 * React
+* Heroku Deployment
 
-* Link to Deployed Site: [https://patricia-dalinis.github.io/clicky-game/]
+* Link to Deployed Site: https://vox-mach-react.herokuapp.com/
