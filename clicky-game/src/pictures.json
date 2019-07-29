@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Scanlan",
+      "image": "../images/scanlan.JPG",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "name": "Pike",
+      "image": "../images/pike.JPG",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "name": "Keyleth",
+      "image": "../images/keyleth.JPG",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "name": "Vax",
+      "image": "../images/vax.JPG",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "name": "Vex",
+      "image": "../images/vex.JPG",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "name": "Percy",
+      "image": "../images/percy.JPG",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "name": "Grog",
+      "image": "../images/grog.JPG",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "name": "Uriel",
+      "image": "../images/uriel.JPG",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "name": "DM",
+      "image": "../images/dm.JPG",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "name": "Kima",
+      "image": "../images/kima.JPG",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "name": "Trinket",
+      "image": "../images/trinket.JPG",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "name": "Gilmore",
+      "image": "../images/gilmore.JPG",
+      "clicked": false
+    }
+  ]
+  
